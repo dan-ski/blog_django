@@ -10,6 +10,7 @@ The application is created with:
 - Python version 3.8.5
 - Django version 3.1.3
 - HTML 5 
+- CSS
 
 ## Features
 
